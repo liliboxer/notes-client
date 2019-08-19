@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NoteForm component renders NoteForm 1`] = `
+<Fragment>
+  <form
+    onSubmit={[Function]}
+  >
+    <input
+      onChange={[Function]}
+      placeholder="title"
+      type="text"
+      value="My Note"
+    />
+    <textarea
+      onChange={[Function]}
+      placeholder="body"
+      type="text"
+      value="My awesome note"
+    />
+    <button>
+      Create Note
+    </button>
+  </form>
+</Fragment>
+`;
